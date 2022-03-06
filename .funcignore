@@ -1,0 +1,11 @@
+.vscode
+my_venv
+test
+__pycache__/
+*.py[cod]
+*$py.class
+my_venv/
+.git*
+tmpfile
+.python_packages
+python_packages/
